@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "707963461885",
+    "firebase_url": "https://bauetgram.firebaseio.com",
+    "project_id": "bauetgram",
+    "storage_bucket": "bauetgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707963461885:android:68e7387735578ec92ade94",
+        "android_client_info": {
+          "package_name": "com.asikthegreat.blogshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707963461885-fnhqqa992qpkop2eksq8nkbfr43h1uj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asikthegreat.blogshare",
+            "certificate_hash": "153e5e99f1f8d9fade1998fae733642486e2e408"
+          }
+        },
+        {
+          "client_id": "707963461885-7mun8mckpffve3o0he858o19n232m3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuw8xGN5fS49S86Q_C_I_ImGL31O0lFHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707963461885-7mun8mckpffve3o0he858o19n232m3jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
